@@ -1,1 +1,3 @@
-WINDOWS + P
+Console.WriteLine("$ 2-project_hotkey-Answer");
+Console.WriteLine("WIN + P");
+Console.WriteLine("$");
