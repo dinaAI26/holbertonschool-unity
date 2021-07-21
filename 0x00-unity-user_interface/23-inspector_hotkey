@@ -1,2 +1,1 @@
-CTRL/CMD + 4
-
+Using system; Console.WriteLine("CTRL/CMD + 4")
